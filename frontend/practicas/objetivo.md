@@ -1,4 +1,4 @@
 # Publico Objetivo
 ### Manuel Ortiz
 
-![IMG](/img/p_o.jpg)
+![IMG](https://github.com/ManuOSMx/launchx/blob/main/frontend/practicas/img/p_o.png)
